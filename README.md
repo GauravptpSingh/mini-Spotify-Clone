@@ -1,2 +1,2 @@
 # mini-Spotify-Clone
- We areb creating a mini project of Spotify-Clone using HTML, CSS and JAVASCRIPT.
+ We are creating a mini project on Spotify-Clone using HTML, CSS and JAVASCRIPT.
